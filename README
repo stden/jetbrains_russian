@@ -1,8 +1,7 @@
-
   Русский словарь для проверки орфографии в продуктах JetBrains
- ---------------------------------------------------------------
+ ===============================================================
 
-Spell Checker Russian Dictionary - http://plugins.intellij.net/plugin/?id=1784
+За основу взят Spell Checker Russian Dictionary - http://plugins.intellij.net/plugin/?id=1784
 
-1. Открываем в PhpStorm меню File -> Settings -> Spelling dialog,  вкладка  “Dictionaries”.
-2. Нажимаем кнопку «Add» и выбираем папку, в которую сохранили russian.dic
+1. Открываем в PhpStorm меню File -> Settings -> Spelling dialog,  вкладка  "Dictionaries".
+2. Нажимаем кнопку "Add" и выбираем папку, в которую сохранили russian.dic
